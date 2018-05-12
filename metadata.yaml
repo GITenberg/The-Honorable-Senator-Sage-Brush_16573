@@ -1,0 +1,28 @@
+_repo: The-Honorable-Senator-Sage-Brush_16573
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lynde, Francis
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '2626'
+    url: http://www.gutenberg.org/2009/agents/2626
+description: ''
+gutenberg_issued: '2005-08-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Political fiction'
+- !lcsh 'West (U.S.) -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+title: The Honorable Senator Sage-Brush
+url: http://www.gutenberg.org/ebooks/16573
