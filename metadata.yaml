@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '2626'
     url: http://www.gutenberg.org/2009/agents/2626
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16573#The-Honorable-Senator-Sage-Brush
 gutenberg_issued: '2005-08-21'
 gutenberg_type: Text
 identifiers:
